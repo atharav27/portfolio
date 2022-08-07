@@ -1,0 +1,54 @@
+.hello-world{
+    width: 20%;
+}
+.about-me {
+    width: 20%;
+}
+.skillset {
+    width: 20%;
+}
+.project{
+    width: 20%;
+}
+.contact{
+    width: 20%;
+}
+
+.logo-img {
+  height: 400px;
+}
+
+.sec-one > p > input{
+    border: 1px solid black;
+    width: 100%;
+padding: 17px;
+
+outline: none;
+font-size: 10px;
+
+}
+
+.sec-two{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blur-rule {
+    height: 1px;
+    width: 100%;
+    background-color: #dedede;
+    margin: 0px 0;
+    display: block;
+    -webkit-box-shadow: 0 0 4px 0 #666;
+    -moz-box-shadow: 0 0 4px 0 #666;
+    box-shadow: 0 0 4px 0 #666;
+  }
+  .blur-rule {
+    height: 1px;
+    width: 100%;
+    background-color: #dedede;
+    margin: 0px 0;
+    display: block;
+    -webkit-box-shadow: 0 0 4px 0 #666;
+    -moz-box-shadow: 0 0 4px 0 #666;
+    box-shadow: 0 0 4px 0 #666;
